@@ -31,18 +31,17 @@ function App() {
 
 export default App;
 
-{
-  /* <Switch>
-  <Route path="/">
-    <AllFavorites />
-  </Route>
-  <Route path="newmeetups">
-    <NewMeetUps />
-  </Route>
-  <Route path="alltodos">
-    <AllTodos />
-  </Route>
+// {
+//   /* <Switch>
+//   <Route path="/">
+//     <AllFavorites />
+//   </Route>
+//   <Route path="newmeetups">
+//     <NewMeetUps />
+//   </Route>
+//   <Route path="alltodos">
+//     <AllTodos />
+//   </Route>
 
-  
-</Switch>; */
-}
+// </Switch>; */
+// }
