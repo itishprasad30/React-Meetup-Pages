@@ -7,3 +7,5 @@ function Card(props) {
 }
 
 export default Card;
+
+// This is the Card pages
